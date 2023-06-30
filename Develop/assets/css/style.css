@@ -56,17 +56,17 @@ nav {
     background-position: center;
 }
 
-.float-left {
+.SEO, .SMM {
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.ORM {
     float: right;
     margin-left: 25px;
 }
 
-.content {
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
