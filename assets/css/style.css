@@ -8,6 +8,7 @@ body {
     background-color: #ffffff;
 }
 
+/* Consolidated header class slectors and repetition */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, 'sans-serif';
@@ -25,6 +26,7 @@ h1 {
     color: #ffffff;
 }
 
+/* Removed class for nav and ul slectors  */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -52,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* Removed div container and removed css hyperlink for the meeting image */
 img {
     max-height: 100%;
     max-width: 100%;
@@ -60,6 +63,8 @@ img {
     background-position: center;
 }
 
+
+/* Created main and selector elements for proper semantics */
 main {
     width: 75%;
     display: inline-block;
@@ -75,6 +80,7 @@ section {
     color: #ffffff;
 }
 
+/* Removed repetitive styling code for section and its images */
 section img {
     max-height: 200px;
 }
@@ -94,6 +100,7 @@ h2 {
     margin-left: 25px;
 }
 
+/* Created an aside with articles for proper semantics */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -121,7 +128,7 @@ article img {
     max-width: 150px;
 }
 
-
+/* Removed class slector for the footer and created an h4 for proper flow  */
 footer {
     padding: 30px;
     clear: both;
