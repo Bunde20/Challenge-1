@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #70d20ed0;
+    background-color: #ffffffd0;
 }
 
 header {
@@ -16,15 +16,15 @@ header {
     font-size: 48px;
 }
 
-.header h1 {
+header h1 {
     font-size: 48px;
 }
 
-.header .seo {
-    color: #6bcd0a;
+header .seo {
+    color: #ffffff;
 }
 
-.header nav {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,16 +32,16 @@ header {
     font-size: 20px;
 }
 
-.header nav ul {
+header nav ul {
     list-style-type: none;
 }
 
-.header nav ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 } 
 
-.header nav ul li a {
+header nav ul li a {
     color: #ffffff;
     text-decoration: none;
 }
@@ -50,22 +50,21 @@ p {
     font-size: 16px;
 }
 
-.hero {
-    height: 800px;
-    width: 100%;
+.digital-marketing-meeting {
+    max-height: 100%;
+    max-width: 100%;
     margin-bottom: 25px;
-    background-image: url("../Develop/assets/images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
 
-main {
+.main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.section {
+.main-section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -74,21 +73,21 @@ main {
     color: #ffffff;
 }
 
-.section img {
+.main-section img {
     max-height: 200px;
 }
 
-.section .float-left {
+.SEO, .SMM {
     float: left;
     margin-right: 25px;
 }
 
-.section .float-right {
+.ORM {
     float: right;
     margin-left: 25px;
 }
 
-.section h2 {
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -104,17 +103,17 @@ aside {
     background-color: #2589bd;
 }
 
-aside section {
+.aside-section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-aside h3 {
+h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-aside img {
+.LG, .BA, .CM {
     display: block;
     margin: 10px auto;
     max-width: 150px;
