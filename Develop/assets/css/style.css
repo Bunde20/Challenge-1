@@ -103,7 +103,7 @@ aside {
     background-color: #2589bd;
 }
 
-.aside-section {
+article {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -113,7 +113,7 @@ h3 {
     text-align: center;
 }
 
-.LG, .BA, .CM {
+article img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
