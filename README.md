@@ -1,9 +1,9 @@
 # Horiseon Boosts Business
 
-## Client Needs:
+## Client Needs
 - Horiseon created a webpage that was missing some key elements for functionality and this was causing some confusion for their clients. They wanted their site to meet accessibility standards in order for it to be optimized for search engines.
 
-## Acceptance Criteria:
+## Acceptance Criteria
 - The source code should follow proper HTML semantics:
     - To fulfill this, improper HTML elements were removed and replaced with correct semantic elements.
 - Styling code and positioning should be clear and concise:
@@ -15,11 +15,11 @@
 - Create a clear and concise title for users to understand:
     - A title was created with the text "Horiseon Boosts Business" to specify that Horiseon can help your business improve.
 
-## Usage:
+## Usage
 ![Horiseon Demo](https://github.com/Bunde20/Horiseon-Boosts-Business/assets/135177057/889afd87-ffb7-41fd-bddc-ee5b4a9b385d)
 
-## Credits:
+## Credits
 The starter code was provided by Xandromus: https://github.com/coding-boot-camp/urban-octo-telegram
 
-## Deployed Application Link:
+## Deployed Application Link
 Here is a link to the deployed application: https://bunde20.github.io/Horiseon-Boosts-Business/
